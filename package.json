@@ -1,0 +1,25 @@
+{
+  "name": "reponode",
+  "version": "1.0.0",
+  "description": "Un proyecto básico de Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "node",
+    "project"
+  ],
+  "author": "Simon",
+  "license": "ISC",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "eslintConfig": {
+    "extends": "eslint:recommended"
+  }
+}
